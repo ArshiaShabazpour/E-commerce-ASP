@@ -23,6 +23,7 @@ namespace ECommerceApp
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             builder.Services.AddScoped<CustomerService>();
+            builder.Services.AddScoped<AddressService>();
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\arshi\\source\\repos\\ECommerece\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\customerdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\customerdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\customerdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\customerdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\customerdtos\\customerregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\ecommerece.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:ecommerece.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,11 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
@@ -147,31 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
-              "RelativeToolTip": "DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:04.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginDTO.cs",
-              "RelativeToolTip": "DTO\\CustomerDTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:03.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "Services\\CustomerService.cs",
@@ -183,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ChangePasswordDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
@@ -191,11 +167,12 @@
               "RelativeToolTip": "DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:05.77Z"
+              "WhenOpened": "2025-11-04T04:31:05.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CustomerRegistrationDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerRegistrationDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerRegistrationDTO.cs",
@@ -207,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -219,7 +196,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:28:54.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\CustomerDTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:31:03.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:31:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CustomerResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerResponseDTO.cs",
@@ -231,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\LoginResponseDTO.cs",
@@ -243,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ECommerece.csproj",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\ECommerece.csproj",
               "RelativeDocumentMoniker": "ECommerece.csproj",
@@ -264,18 +278,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-29T01:47:02.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:28:54.065Z"
             },
             {
               "$type": "Document",
