@@ -1,5 +1,6 @@
 using ECommerceApp.Data;
 using ECommerceApp.Services;
+using ECommerece.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace ECommerceApp
@@ -24,6 +25,7 @@ namespace ECommerceApp
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             builder.Services.AddScoped<CustomerService>();
             builder.Services.AddScoped<AddressService>();
+            builder.Services.AddScoped<CategoryService>();
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())

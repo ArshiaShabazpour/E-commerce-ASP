@@ -147,7 +147,7 @@ namespace ECommerceApp.Services
             {
                 var customer = await _context.Customers
                 .AsNoTracking()
-                .Include(c => c.Addresses)
+                .Include(c=> c.Addresses)
                 .FirstOrDefaultAsync(c => c.Id == customerId);
                 if (customer == null)
                 {
