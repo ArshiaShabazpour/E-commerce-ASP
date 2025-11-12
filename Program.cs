@@ -28,6 +28,7 @@ namespace ECommerceApp
             builder.Services.AddScoped<CategoryService>();
             builder.Services.AddScoped<ProductService>();
             builder.Services.AddScoped<ShoppingCartService>();
+            builder.Services.AddScoped<ProductService>();
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())
