@@ -3,8 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\arshi\\source\\repos\\ECommerece\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\emailtemplates\\orderconfirmation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:emailtemplates\\orderconfirmation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:services\\templateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\confirmationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\confirmationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\paymentdtos\\codpaymentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\paymentdtos\\codpaymentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\paymentdtos\\paymentstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\paymentdtos\\paymentstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\paymentdtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\paymentdtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\oderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\oderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\oderdtos\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\oderdtos\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\oderdtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\oderdtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\oderdtos\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\oderdtos\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\oderdtos\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\oderdtos\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\oderdtos\\orderstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\oderdtos\\orderstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,10 +223,6 @@
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\addressesdtos\\addressdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\confirmationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\confirmationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -163,16 +231,8 @@
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\customerdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\customerdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\customerdtos\\customerregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -199,16 +259,8 @@
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:ecommerece.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\cancellationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\cancellationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\oderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\oderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -234,11 +286,259 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:28:51.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv0cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:46:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderConfirmation.html",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\EmailTemplates\\OrderConfirmation.html",
+              "RelativeDocumentMoniker": "EmailTemplates\\OrderConfirmation.html",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\EmailTemplates\\OrderConfirmation.html",
+              "RelativeToolTip": "EmailTemplates\\OrderConfirmation.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-16T05:38:56.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\TemplateService.cs",
+              "RelativeDocumentMoniker": "Services\\TemplateService.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\TemplateService.cs",
+              "RelativeToolTip": "Services\\TemplateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:41:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Services\\PaymentService.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAUwEcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:42:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentStatusUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\PaymentStatusUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentDTOs\\PaymentStatusUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\PaymentStatusUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\PaymentDTOs\\PaymentStatusUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:16:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:19:46.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\PaymentRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentDTOs\\PaymentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\PaymentRequestDTO.cs",
+              "RelativeToolTip": "DTO\\PaymentDTOs\\PaymentRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:16:42.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAgwAsBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:52:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ConfirmationResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ConfirmationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ConfirmationResponseDTO.cs",
+              "RelativeToolTip": "DTO\\ConfirmationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:43:08.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CODPaymentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\CODPaymentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentDTOs\\CODPaymentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\CODPaymentUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\PaymentDTOs\\CODPaymentUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:17:37.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T01:47:02.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:53:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderResponseDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderResponseDTO.cs",
+              "RelativeToolTip": "DTO\\OderDTOs\\OrderResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:48:25.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItemCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderItemCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderItemCreateDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderItemCreateDTO.cs",
+              "RelativeToolTip": "DTO\\OderDTOs\\OrderItemCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:46:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderCreateDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderCreateDTO.cs",
+              "RelativeToolTip": "DTO\\OderDTOs\\OrderCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:45:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\OderStatus.cs",
+              "RelativeDocumentMoniker": "Models\\OderStatus.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\OderStatus.cs",
+              "RelativeToolTip": "Models\\OderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:18:48.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderItemResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderItemResponseDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderItemResponseDTO.cs",
+              "RelativeToolTip": "DTO\\OderDTOs\\OrderItemResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:49:56.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderStatusUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderStatusUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderStatusUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderStatusUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\OderDTOs\\OrderStatusUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:47:57.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CartsController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CartsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartsController.cs",
@@ -251,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "ShoppingCartService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\ShoppingCartService.cs",
               "RelativeDocumentMoniker": "Services\\ShoppingCartService.cs",
@@ -264,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
               "Title": "UpdateCartItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\UpdateCartItemDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\UpdateCartItemDTO.cs",
@@ -277,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "CartItemResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\CartItemResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\CartItemResponseDTO.cs",
@@ -290,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "CartResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\CartResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\CartResponseDTO.cs",
@@ -303,20 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:48:49.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "RemoveCartItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\RemoveCartItemDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\RemoveCartItemDTO.cs",
@@ -329,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "AddToCartDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\AddToCartDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\AddToCartDTO.cs",
@@ -342,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\ProductsController.cs",
               "RelativeDocumentMoniker": "Services\\ProductsController.cs",
@@ -355,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
@@ -368,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "ProductStatusUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductStatusUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductStatusUpdateDTO.cs",
@@ -376,11 +663,12 @@
               "RelativeToolTip": "DTO\\ProductDTOs\\ProductStatusUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T05:03:39.622Z"
+              "WhenOpened": "2025-11-11T05:03:39.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "ProductUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductUpdateDTO.cs",
@@ -388,11 +676,12 @@
               "RelativeToolTip": "DTO\\ProductDTOs\\ProductUpdateDTO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T05:03:14.413Z"
+              "WhenOpened": "2025-11-11T05:03:14.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "Services\\CustomerService.cs",
@@ -400,11 +689,12 @@
               "RelativeToolTip": "Services\\CustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T03:55:36.62Z"
+              "WhenOpened": "2025-11-04T03:55:36.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\CategoryService.cs",
@@ -412,11 +702,12 @@
               "RelativeToolTip": "Services\\CategoryService.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAowHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T22:00:29.655Z"
+              "WhenOpened": "2025-11-10T22:00:29.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "AddressService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\AddressService.cs",
               "RelativeDocumentMoniker": "Services\\AddressService.cs",
@@ -424,11 +715,12 @@
               "RelativeToolTip": "Services\\AddressService.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAAowAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:00:13.911Z"
+              "WhenOpened": "2025-11-10T04:00:13.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 33,
               "Title": "ProductCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductCreateDTO.cs",
@@ -436,11 +728,12 @@
               "RelativeToolTip": "DTO\\ProductDTOs\\ProductCreateDTO.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T05:02:38.289Z"
+              "WhenOpened": "2025-11-11T05:02:38.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 34,
               "Title": "ProductResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductResponseDTO.cs",
@@ -448,11 +741,12 @@
               "RelativeToolTip": "DTO\\ProductDTOs\\ProductResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T05:02:58.181Z"
+              "WhenOpened": "2025-11-11T05:02:58.181Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 35,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -460,11 +754,12 @@
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T22:52:26.025Z"
+              "WhenOpened": "2025-11-10T22:52:26.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 39,
               "Title": "CategoryUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CategoryDTOs\\CategoryUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CategoryDTOs\\CategoryUpdateDTO.cs",
@@ -472,11 +767,12 @@
               "RelativeToolTip": "DTO\\CategoryDTOs\\CategoryUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:51:26.14Z"
+              "WhenOpened": "2025-11-10T21:51:26.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "Catergory.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Catergory.cs",
               "RelativeDocumentMoniker": "Models\\Catergory.cs",
@@ -484,11 +780,12 @@
               "RelativeToolTip": "Models\\Catergory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T03:21:06.125Z"
+              "WhenOpened": "2025-10-28T03:21:06.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -496,11 +793,12 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T03:13:21.741Z"
+              "WhenOpened": "2025-10-28T03:13:21.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -508,11 +806,12 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T03:22:30.349Z"
+              "WhenOpened": "2025-10-28T03:22:30.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "CategoryResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CategoryDTOs\\CategoryResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CategoryDTOs\\CategoryResponseDTO.cs",
@@ -520,11 +819,12 @@
               "RelativeToolTip": "DTO\\CategoryDTOs\\CategoryResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:50:38.961Z"
+              "WhenOpened": "2025-11-10T21:50:38.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
               "Title": "CategoryCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CategoryDTOs\\CategoryCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CategoryDTOs\\CategoryCreateDTO.cs",
@@ -532,11 +832,12 @@
               "RelativeToolTip": "DTO\\CategoryDTOs\\CategoryCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:50:12.986Z"
+              "WhenOpened": "2025-11-10T21:50:12.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
@@ -544,11 +845,12 @@
               "RelativeToolTip": "Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:21:54.847Z"
+              "WhenOpened": "2025-10-29T01:21:54.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 45,
               "Title": "RefundStatus.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\RefundStatus.cs",
               "RelativeDocumentMoniker": "Models\\RefundStatus.cs",
@@ -556,11 +858,12 @@
               "RelativeToolTip": "Models\\RefundStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:24:34.927Z"
+              "WhenOpened": "2025-10-29T01:24:34.927Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
               "Title": "RefundMethod.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\RefundMethod.cs",
               "RelativeDocumentMoniker": "Models\\RefundMethod.cs",
@@ -568,11 +871,12 @@
               "RelativeToolTip": "Models\\RefundMethod.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:25:43.261Z"
+              "WhenOpened": "2025-10-29T01:25:43.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "AddressUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressUpdateDTO.cs",
@@ -580,11 +884,12 @@
               "RelativeToolTip": "DTO\\AddressesDTOs\\AddressUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:40:03.833Z"
+              "WhenOpened": "2025-11-10T05:40:03.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "AddressCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressCreateDTO.cs",
@@ -592,11 +897,12 @@
               "RelativeToolTip": "DTO\\AddressesDTOs\\AddressCreateDTO.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T03:58:28.206Z"
+              "WhenOpened": "2025-11-10T03:58:28.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "Refund.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Refund.cs",
               "RelativeDocumentMoniker": "Models\\Refund.cs",
@@ -604,11 +910,12 @@
               "RelativeToolTip": "Models\\Refund.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:26:13.936Z"
+              "WhenOpened": "2025-10-29T01:26:13.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 48,
               "Title": "PaymentStatus.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\PaymentStatus.cs",
               "RelativeDocumentMoniker": "Models\\PaymentStatus.cs",
@@ -616,11 +923,12 @@
               "RelativeToolTip": "Models\\PaymentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:22:29.307Z"
+              "WhenOpened": "2025-10-29T01:22:29.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 49,
               "Title": "AddressesController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\AddressesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AddressesController.cs",
@@ -628,11 +936,12 @@
               "RelativeToolTip": "Controllers\\AddressesController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:52:18.355Z"
+              "WhenOpened": "2025-11-10T05:52:18.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 50,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
@@ -640,11 +949,12 @@
               "RelativeToolTip": "Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:22:48.708Z"
+              "WhenOpened": "2025-11-05T04:22:48.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 51,
               "Title": "Cancellation.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Cancellation.cs",
               "RelativeDocumentMoniker": "Models\\Cancellation.cs",
@@ -652,11 +962,12 @@
               "RelativeToolTip": "Models\\Cancellation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:23:44.214Z"
+              "WhenOpened": "2025-10-29T01:23:44.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 52,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Models\\Address.cs",
@@ -664,11 +975,12 @@
               "RelativeToolTip": "Models\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T03:19:08.394Z"
+              "WhenOpened": "2025-10-28T03:19:08.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 53,
               "Title": "AddressResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressResponseDTO.cs",
@@ -676,11 +988,12 @@
               "RelativeToolTip": "DTO\\AddressesDTOs\\AddressResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T03:58:59.926Z"
+              "WhenOpened": "2025-11-10T03:58:59.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 54,
               "Title": "AddressDeleteDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressDeleteDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressDeleteDTO.cs",
@@ -688,23 +1001,12 @@
               "RelativeToolTip": "DTO\\AddressesDTOs\\AddressDeleteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T03:59:40.356Z"
+              "WhenOpened": "2025-11-10T03:59:40.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ConfirmationResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ConfirmationResponseDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\ConfirmationResponseDTO.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ConfirmationResponseDTO.cs",
-              "RelativeToolTip": "DTO\\ConfirmationResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:43:08.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 55,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ApiResponse.cs",
               "RelativeDocumentMoniker": "DTO\\ApiResponse.cs",
@@ -712,11 +1014,12 @@
               "RelativeToolTip": "DTO\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:44:30.113Z"
+              "WhenOpened": "2025-11-10T04:44:30.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 56,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
@@ -724,23 +1027,12 @@
               "RelativeToolTip": "Models\\Payment.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:22:52.08Z"
+              "WhenOpened": "2025-10-29T01:22:52.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:19:46.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 57,
               "Title": "ChangePasswordDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
@@ -748,11 +1040,12 @@
               "RelativeToolTip": "DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:05.77Z"
+              "WhenOpened": "2025-11-04T04:31:05.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "CustomerRegistrationDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerRegistrationDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerRegistrationDTO.cs",
@@ -760,23 +1053,12 @@
               "RelativeToolTip": "DTO\\CustomerDTOs\\CustomerRegistrationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:05.347Z"
+              "WhenOpened": "2025-11-04T04:31:05.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:28:54.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 61,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\LoginDTO.cs",
@@ -784,11 +1066,12 @@
               "RelativeToolTip": "DTO\\CustomerDTOs\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:03.758Z"
+              "WhenOpened": "2025-11-04T04:31:03.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "CustomerUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
@@ -796,11 +1079,12 @@
               "RelativeToolTip": "DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:04.277Z"
+              "WhenOpened": "2025-11-04T04:31:04.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 59,
               "Title": "CustomerResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerResponseDTO.cs",
@@ -808,11 +1092,12 @@
               "RelativeToolTip": "DTO\\CustomerDTOs\\CustomerResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:04.854Z"
+              "WhenOpened": "2025-11-04T04:31:04.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 62,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\LoginResponseDTO.cs",
@@ -820,11 +1105,12 @@
               "RelativeToolTip": "DTO\\CustomerDTOs\\LoginResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T04:31:02.766Z"
+              "WhenOpened": "2025-11-04T04:31:02.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 63,
               "Title": "ECommerece.csproj",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\ECommerece.csproj",
               "RelativeDocumentMoniker": "ECommerece.csproj",
@@ -832,23 +1118,12 @@
               "RelativeToolTip": "ECommerece.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-04T03:55:18.405Z"
+              "WhenOpened": "2025-11-04T03:55:18.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T01:47:02.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 64,
               "Title": "CancellationStatus.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\CancellationStatus.cs",
               "RelativeDocumentMoniker": "Models\\CancellationStatus.cs",
@@ -856,11 +1131,12 @@
               "RelativeToolTip": "Models\\CancellationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:54:22.041Z"
+              "WhenOpened": "2025-10-29T01:54:22.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 66,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "Models\\Feedback.cs",
@@ -868,23 +1144,12 @@
               "RelativeToolTip": "Models\\Feedback.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:27:57.424Z"
+              "WhenOpened": "2025-10-29T01:27:57.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "OderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\OderStatus.cs",
-              "RelativeDocumentMoniker": "Models\\OderStatus.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\OderStatus.cs",
-              "RelativeToolTip": "Models\\OderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:18:48.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 65,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Status.cs",
               "RelativeDocumentMoniker": "Models\\Status.cs",
@@ -892,11 +1157,12 @@
               "RelativeToolTip": "Models\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T03:20:16.738Z"
+              "WhenOpened": "2025-10-28T03:20:16.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 68,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Models\\CartItem.cs",
@@ -904,11 +1170,12 @@
               "RelativeToolTip": "Models\\CartItem.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:15:21.056Z"
+              "WhenOpened": "2025-10-29T01:15:21.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 67,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
@@ -916,7 +1183,8 @@
               "RelativeToolTip": "Models\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:14:33.274Z"
+              "WhenOpened": "2025-10-29T01:14:33.274Z",
+              "EditorCaption": ""
             }
           ]
         }

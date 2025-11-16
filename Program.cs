@@ -29,6 +29,10 @@ namespace ECommerceApp
             builder.Services.AddScoped<ProductService>();
             builder.Services.AddScoped<ShoppingCartService>();
             builder.Services.AddScoped<ProductService>();
+            builder.Services.AddScoped<PaymentService>();
+            builder.Services.AddScoped<EmailService>();
+            builder.Services.AddScoped<OrderService>();
+            builder.Services.AddTransient<TemplateService>();
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())

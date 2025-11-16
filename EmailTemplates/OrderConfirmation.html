@@ -1,0 +1,46 @@
+﻿<html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px;">
+    <div style="max-width: 700px; margin: auto; background-color: #ffffff; padding: 20px; border: 1px solid #dddddd;">
+
+        <div style="background-color: #007bff; padding: 15px; text-align: center; color: #ffffff;">
+            <h2 style="margin: 0;">Order Confirmation</h2>
+        </div>
+
+        <p>Dear {{CustomerName}},</p>
+        <p>Thank you for your order. Please find your invoice below.</p>
+
+        <h3>Order Summary</h3>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr><td><strong>Order Number:</strong></td><td>{{OrderNumber}}</td></tr>
+            <tr><td><strong>Order Date:</strong></td><td>{{OrderDate}}</td></tr>
+            <tr><td><strong>Total Amount:</strong></td><td>{{TotalAmount}}</td></tr>
+        </table>
+
+        <h3>Order Items</h3>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr>
+                <th style="border:1px solid #ddd; padding:8px">Product</th>
+                <th style="border:1px solid #ddd; padding:8px">Qty</th>
+                <th style="border:1px solid #ddd; padding:8px">Unit Price</th>
+                <th style="border:1px solid #ddd; padding:8px">Total</th>
+            </tr>
+            {{OrderItems}}
+        </table>
+
+        <h3>Addresses</h3>
+        <p><strong>Billing:</strong><br />{{BillingAddress}}</p>
+        <p><strong>Shipping:</strong><br />{{ShippingAddress}}</p>
+
+        <h3>Payment</h3>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr><td><strong>Method:</strong></td><td>{{PaymentMethod}}</td></tr>
+            <tr><td><strong>Status:</strong></td><td>{{PaymentStatus}}</td></tr>
+            <tr><td><strong>Transaction ID:</strong></td><td>{{TransactionId}}</td></tr>
+        </table>
+
+    </div>
+</body>
+</html>
