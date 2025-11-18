@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECommerece")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92eb7ffe1b43931dc5cd508101c31cc3ce8c9e90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1185e3e5cb00929bea4b3cdcd73e09f13db1912e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECommerece")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECommerece")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

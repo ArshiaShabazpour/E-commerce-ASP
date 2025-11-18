@@ -32,6 +32,8 @@ namespace ECommerceApp
             builder.Services.AddScoped<PaymentService>();
             builder.Services.AddScoped<EmailService>();
             builder.Services.AddScoped<OrderService>();
+            builder.Services.AddScoped<CancellationService>();
+            builder.Services.AddHostedService<PendingPaymentService>();
             builder.Services.AddTransient<TemplateService>();
             var app = builder.Build();
 

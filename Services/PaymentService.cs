@@ -91,7 +91,7 @@ namespace ECommerceApp.Services
                     await _context.SaveChangesAsync();
                     await transaction.CommitAsync();
                     // Send Order Confirmation Email if Order Status is Processing
-                    // It means the user is either selected COD of the Payment is Sucessful 
+                    // It means the user is either selected COD or the Payment is Sucessful 
                     if (order.OrderStatus == OrderStatus.Processing)
                     {
                         await SendOrderConfirmationEmailAsync(paymentRequest.OrderId);
@@ -254,7 +254,7 @@ namespace ECommerceApp.Services
         {
             //Simulate the PG
             await Task.Delay(TimeSpan.FromMilliseconds(1));
-            int chance = Random.Shared.Next(1, 101); // 1 to 100
+            int chance = Random.Shared.Next(1, 101); 
             if (chance <= 60)
                 return PaymentStatus.Completed;
             else if (chance <= 90)
