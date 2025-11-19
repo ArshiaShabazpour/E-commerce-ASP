@@ -93,7 +93,3 @@
 - `GET /api/Refunds/GetRefundById/{id}`  
 - `GET /api/Refunds/GetAllRefunds`  
 
----
-
-## Project Structure
-
