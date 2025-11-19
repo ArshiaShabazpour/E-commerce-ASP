@@ -33,8 +33,14 @@ namespace ECommerceApp
             builder.Services.AddScoped<EmailService>();
             builder.Services.AddScoped<OrderService>();
             builder.Services.AddScoped<CancellationService>();
-            builder.Services.AddHostedService<PendingPaymentService>();
+            builder.Services.AddScoped<RefundService>();
+            builder.Services.AddScoped<FeedbackService>();
+
             builder.Services.AddTransient<TemplateService>();
+
+            builder.Services.AddHostedService<PendingPaymentService>();
+            builder.Services.AddHostedService<RefundProcessingBackgroundService>();
+
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())

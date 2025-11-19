@@ -1,0 +1,51 @@
+﻿<html>
+<body style='font-family: Arial, sans-serif; margin: 0; padding: 0;'>
+    <div style='background-color: #f4f4f4; padding: 20px;'>
+        <div style='max-width: 600px; margin: 0 auto; background-color: #ffffff; border: 1px solid #ddd;'>
+            <div style='padding: 20px; text-align: center; background-color: #2E86C1; color: #ffffff;'>
+                <h2>Your Refund is Complete</h2>
+            </div>
+            <div style='padding: 20px;'>
+                <p>Dear Customer,</p>
+                <p>Your refund has been processed successfully. Below are the details:</p>
+                <table style='width: 100%; border-collapse: collapse;'>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Order Number</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>{{OrderNumber}}</td>
+                    </tr>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Refund Transaction ID</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>{{RefundTransactionId}}</td>
+                    </tr>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Order Amount</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>₹{{OrderAmount}}</td>
+                    </tr>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Cancellation Charges</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>₹{{CancellationCharges}}</td>
+                    </tr>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Cancellation Reason</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>{{CancellationReason}}</td>
+                    </tr>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Refunded Method</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>{{RefundMethod}}</td>
+                    </tr>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Refunded Amount</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>₹{{RefundAmount}}</td>
+                    </tr>
+                    <tr>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>Completed At</td>
+                        <td style='border: 1px solid #ddd; padding: 8px;'>{{CompletedAt}}</td>
+                    </tr>
+                </table>
+                <p>Thank you for shopping with us.</p>
+                <p>Best regards,<br />The ECommerce Team</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

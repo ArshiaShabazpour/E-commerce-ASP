@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\arshi\\source\\repos\\ECommerece\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\controllers\\refundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:controllers\\refundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\services\\refundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:services\\refundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\services\\refundprocessingbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:services\\refundprocessingbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\emailtemplates\\refundsuccesstemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:emailtemplates\\refundsuccesstemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\refunddtos\\refundresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\refunddtos\\refundresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\refunddtos\\paymentgatewayrefundresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\refunddtos\\paymentgatewayrefundresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\refunddtos\\refundstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\refunddtos\\refundstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\refunddtos\\refundrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\refunddtos\\refundrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\refunddtos\\pendingrefundresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\refunddtos\\pendingrefundresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\services\\pendingpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -235,16 +283,8 @@
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\refundmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\refundmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:models\\refund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -265,10 +305,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\addressesdtos\\addressdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\addressesdtos\\addressdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|solutionrelative:dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0077A7B-FB53-41CE-A807-5A7397355DB5}|ECommerece.csproj|c:\\users\\arshi\\source\\repos\\ecommerece\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -326,37 +362,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PendingPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\PendingPaymentService.cs",
-              "RelativeDocumentMoniker": "Services\\PendingPaymentService.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\PendingPaymentService.cs",
-              "RelativeToolTip": "Services\\PendingPaymentService.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwEkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RefundsController.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\RefundsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RefundsController.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\RefundsController.cs",
+              "RelativeToolTip": "Controllers\\RefundsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T04:51:11.806Z",
+              "WhenOpened": "2025-11-19T00:02:17.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "RefundProcessingBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\RefundProcessingBackgroundService.cs",
+              "RelativeDocumentMoniker": "Services\\RefundProcessingBackgroundService.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\RefundProcessingBackgroundService.cs",
+              "RelativeToolTip": "Services\\RefundProcessingBackgroundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T00:00:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefundSuccessTemplate.html",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\EmailTemplates\\RefundSuccessTemplate.html",
+              "RelativeDocumentMoniker": "EmailTemplates\\RefundSuccessTemplate.html",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\EmailTemplates\\RefundSuccessTemplate.html",
+              "RelativeToolTip": "EmailTemplates\\RefundSuccessTemplate.html",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-18T23:51:05.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefundService.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\RefundService.cs",
+              "RelativeDocumentMoniker": "Services\\RefundService.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\RefundService.cs",
+              "RelativeToolTip": "Services\\RefundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:48:21.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefundStatus.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\RefundStatus.cs",
+              "RelativeDocumentMoniker": "Models\\RefundStatus.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\RefundStatus.cs",
+              "RelativeToolTip": "Models\\RefundStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:24:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Refund.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Refund.cs",
+              "RelativeDocumentMoniker": "Models\\Refund.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Refund.cs",
+              "RelativeToolTip": "Models\\Refund.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:26:13.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefundResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\RefundResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RefundDTOs\\RefundResponseDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\RefundResponseDTO.cs",
+              "RelativeToolTip": "DTO\\RefundDTOs\\RefundResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:49:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentGatewayRefundResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\PaymentGatewayRefundResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RefundDTOs\\PaymentGatewayRefundResponseDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\PaymentGatewayRefundResponseDTO.cs",
+              "RelativeToolTip": "DTO\\RefundDTOs\\PaymentGatewayRefundResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:47:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwCMAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T04:50:02.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "RefundStatusUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\RefundStatusUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RefundDTOs\\RefundStatusUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\RefundStatusUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\RefundDTOs\\RefundStatusUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:40:29.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefundRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\RefundRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RefundDTOs\\RefundRequestDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\RefundRequestDTO.cs",
+              "RelativeToolTip": "DTO\\RefundDTOs\\RefundRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:35:41.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PendingRefundResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\PendingRefundResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RefundDTOs\\PendingRefundResponseDTO.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\RefundDTOs\\PendingRefundResponseDTO.cs",
+              "RelativeToolTip": "DTO\\RefundDTOs\\PendingRefundResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:35:17.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CancellationController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CancellationController.cs",
               "RelativeDocumentMoniker": "Controllers\\CancellationController.cs",
@@ -364,12 +530,11 @@
               "RelativeToolTip": "Controllers\\CancellationController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAA7wAoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T04:42:05.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T04:42:05.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "CancellationApproved.html",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\EmailTemplates\\CancellationApproved.html",
               "RelativeDocumentMoniker": "EmailTemplates\\CancellationApproved.html",
@@ -377,12 +542,11 @@
               "RelativeToolTip": "EmailTemplates\\CancellationApproved.html",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-18T04:11:56.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T04:11:56.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "CancellationRejected.html",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\EmailTemplates\\CancellationRejected.html",
               "RelativeDocumentMoniker": "EmailTemplates\\CancellationRejected.html",
@@ -390,12 +554,11 @@
               "RelativeToolTip": "EmailTemplates\\CancellationRejected.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-18T04:04:18.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T04:04:18.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "CancellationService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\CancellationService.cs",
               "RelativeDocumentMoniker": "Services\\CancellationService.cs",
@@ -403,12 +566,36 @@
               "RelativeToolTip": "Services\\CancellationService.cs",
               "ViewState": "AgIAAO0AAAAAAAAAAAAzwPkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T03:49:34.105Z",
+              "WhenOpened": "2025-11-18T03:49:34.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ApiResponse.cs",
+              "RelativeToolTip": "DTO\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:44:30.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "PendingPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\PendingPaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PendingPaymentService.cs",
+              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\PendingPaymentService.cs",
+              "RelativeToolTip": "Services\\PendingPaymentService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:51:11.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "OrderConfirmation.html",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\EmailTemplates\\OrderConfirmation.html",
               "RelativeDocumentMoniker": "EmailTemplates\\OrderConfirmation.html",
@@ -416,12 +603,11 @@
               "RelativeToolTip": "EmailTemplates\\OrderConfirmation.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-16T05:38:56.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T05:38:56.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "Services\\PaymentService.cs",
@@ -429,12 +615,11 @@
               "RelativeToolTip": "Services\\PaymentService.cs",
               "ViewState": "AgIAAA4BAAAAAAAAAAAywCMBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T05:42:25.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T05:42:25.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "TemplateService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\TemplateService.cs",
               "RelativeDocumentMoniker": "Services\\TemplateService.cs",
@@ -442,12 +627,11 @@
               "RelativeToolTip": "Services\\TemplateService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T05:41:21.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T05:41:21.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "CancellationStatusUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CancellationDTOs\\CancellationStatusUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CancellationDTOs\\CancellationStatusUpdateDTO.cs",
@@ -455,12 +639,11 @@
               "RelativeToolTip": "DTO\\CancellationDTOs\\CancellationStatusUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T03:48:54.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T03:48:54.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "CancellationResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CancellationDTOs\\CancellationResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CancellationDTOs\\CancellationResponseDTO.cs",
@@ -468,12 +651,11 @@
               "RelativeToolTip": "DTO\\CancellationDTOs\\CancellationResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T03:48:37.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T03:48:37.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "CancellationRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CancellationDTOs\\CancellationRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CancellationDTOs\\CancellationRequestDTO.cs",
@@ -481,12 +663,11 @@
               "RelativeToolTip": "DTO\\CancellationDTOs\\CancellationRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T03:47:22.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T03:47:22.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
@@ -498,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
@@ -510,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "CancellationStatus.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\CancellationStatus.cs",
               "RelativeDocumentMoniker": "Models\\CancellationStatus.cs",
@@ -518,12 +699,11 @@
               "RelativeToolTip": "Models\\CancellationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:54:22.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:54:22.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
@@ -535,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "ShoppingCartService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\ShoppingCartService.cs",
               "RelativeDocumentMoniker": "Services\\ShoppingCartService.cs",
@@ -547,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
@@ -559,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "Services\\CustomerService.cs",
@@ -571,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "OderStatus.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\OderStatus.cs",
               "RelativeDocumentMoniker": "Models\\OderStatus.cs",
@@ -583,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -595,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "CartsController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\CartsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartsController.cs",
@@ -607,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
@@ -619,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "AddressesController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Controllers\\AddressesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AddressesController.cs",
@@ -631,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -643,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "PaymentStatusUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\PaymentStatusUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\PaymentDTOs\\PaymentStatusUpdateDTO.cs",
@@ -655,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -667,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "PaymentRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\PaymentRequestDTO.cs",
               "RelativeDocumentMoniker": "DTO\\PaymentDTOs\\PaymentRequestDTO.cs",
@@ -679,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Services\\OrderService.cs",
@@ -691,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "ConfirmationResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ConfirmationResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ConfirmationResponseDTO.cs",
@@ -703,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "CODPaymentUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\PaymentDTOs\\CODPaymentUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\PaymentDTOs\\CODPaymentUpdateDTO.cs",
@@ -715,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -727,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "OrderResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderResponseDTO.cs",
@@ -739,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "OrderItemCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderItemCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderItemCreateDTO.cs",
@@ -751,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "OrderCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderCreateDTO.cs",
@@ -763,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "OrderItemResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderItemResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderItemResponseDTO.cs",
@@ -775,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "OrderStatusUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\OderDTOs\\OrderStatusUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\OderDTOs\\OrderStatusUpdateDTO.cs",
@@ -787,7 +967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 52,
               "Title": "UpdateCartItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\UpdateCartItemDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\UpdateCartItemDTO.cs",
@@ -799,7 +979,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 50,
               "Title": "CartItemResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\CartItemResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\CartItemResponseDTO.cs",
@@ -811,7 +991,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 49,
               "Title": "CartResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\CartResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\CartResponseDTO.cs",
@@ -823,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 51,
               "Title": "RemoveCartItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\RemoveCartItemDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\RemoveCartItemDTO.cs",
@@ -835,7 +1015,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 53,
               "Title": "AddToCartDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ShoppingCartDTOs\\AddToCartDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ShoppingCartDTOs\\AddToCartDTO.cs",
@@ -847,7 +1027,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 54,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\ProductsController.cs",
               "RelativeDocumentMoniker": "Services\\ProductsController.cs",
@@ -859,7 +1039,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 57,
               "Title": "ProductStatusUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductStatusUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductStatusUpdateDTO.cs",
@@ -871,7 +1051,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 58,
               "Title": "ProductUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductUpdateDTO.cs",
@@ -883,7 +1063,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 56,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\CategoryService.cs",
@@ -895,7 +1075,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 55,
               "Title": "AddressService.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Services\\AddressService.cs",
               "RelativeDocumentMoniker": "Services\\AddressService.cs",
@@ -907,7 +1087,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 59,
               "Title": "ProductCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductCreateDTO.cs",
@@ -919,7 +1099,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 60,
               "Title": "ProductResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ProductDTOs\\ProductResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ProductDTOs\\ProductResponseDTO.cs",
@@ -931,7 +1111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 64,
               "Title": "CategoryUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CategoryDTOs\\CategoryUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CategoryDTOs\\CategoryUpdateDTO.cs",
@@ -943,7 +1123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 61,
               "Title": "Catergory.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Catergory.cs",
               "RelativeDocumentMoniker": "Models\\Catergory.cs",
@@ -955,7 +1135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 63,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -967,7 +1147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 62,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -979,7 +1159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 65,
               "Title": "CategoryResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CategoryDTOs\\CategoryResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CategoryDTOs\\CategoryResponseDTO.cs",
@@ -991,7 +1171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 66,
               "Title": "CategoryCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CategoryDTOs\\CategoryCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CategoryDTOs\\CategoryCreateDTO.cs",
@@ -1003,7 +1183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
@@ -1015,19 +1195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "RefundStatus.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\RefundStatus.cs",
-              "RelativeDocumentMoniker": "Models\\RefundStatus.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\RefundStatus.cs",
-              "RelativeToolTip": "Models\\RefundStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:24:34.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 70,
               "Title": "RefundMethod.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\RefundMethod.cs",
               "RelativeDocumentMoniker": "Models\\RefundMethod.cs",
@@ -1039,7 +1207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 68,
               "Title": "AddressUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressUpdateDTO.cs",
@@ -1051,7 +1219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 67,
               "Title": "AddressCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressCreateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressCreateDTO.cs",
@@ -1063,19 +1231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Refund.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Refund.cs",
-              "RelativeDocumentMoniker": "Models\\Refund.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Refund.cs",
-              "RelativeToolTip": "Models\\Refund.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:26:13.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 71,
               "Title": "PaymentStatus.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\PaymentStatus.cs",
               "RelativeDocumentMoniker": "Models\\PaymentStatus.cs",
@@ -1087,7 +1243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 72,
               "Title": "Cancellation.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Cancellation.cs",
               "RelativeDocumentMoniker": "Models\\Cancellation.cs",
@@ -1099,7 +1255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 73,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Models\\Address.cs",
@@ -1111,7 +1267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 74,
               "Title": "AddressResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressResponseDTO.cs",
@@ -1123,7 +1279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 75,
               "Title": "AddressDeleteDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\AddressesDTOs\\AddressDeleteDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AddressesDTOs\\AddressDeleteDTO.cs",
@@ -1135,19 +1291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "DTO\\ApiResponse.cs",
-              "ToolTip": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\ApiResponse.cs",
-              "RelativeToolTip": "DTO\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:44:30.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 76,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
@@ -1159,7 +1303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 77,
               "Title": "ChangePasswordDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\ChangePasswordDTO.cs",
@@ -1171,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 78,
               "Title": "CustomerRegistrationDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerRegistrationDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerRegistrationDTO.cs",
@@ -1183,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 81,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\LoginDTO.cs",
@@ -1195,7 +1339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 80,
               "Title": "CustomerUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerUpdateDTO.cs",
@@ -1207,7 +1351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 79,
               "Title": "CustomerResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\CustomerResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\CustomerResponseDTO.cs",
@@ -1219,7 +1363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 82,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\DTO\\CustomerDTOs\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\CustomerDTOs\\LoginResponseDTO.cs",
@@ -1231,7 +1375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 83,
               "Title": "ECommerece.csproj",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\ECommerece.csproj",
               "RelativeDocumentMoniker": "ECommerece.csproj",
@@ -1243,7 +1387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 85,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "Models\\Feedback.cs",
@@ -1255,7 +1399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 84,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Status.cs",
               "RelativeDocumentMoniker": "Models\\Status.cs",
@@ -1267,7 +1411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 87,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Models\\CartItem.cs",
@@ -1279,7 +1423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 86,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\arshi\\source\\repos\\ECommerece\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
